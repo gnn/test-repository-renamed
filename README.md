@@ -1,2 +1,2 @@
 # test-repository-renaming
-Orignal
+Original
